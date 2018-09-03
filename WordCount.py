@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 # python 3.5
 # Word Counter
 # Find N most frequent word from a file 
